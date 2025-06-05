@@ -1,5 +1,5 @@
 Nombre:
-El mejor color del mundo es: azul
+El mejor color del mundo es: verde
 La mejor comida del mundo es: pizza
 El mejor animal del mundo es: perro
-El mejor jugador (futbol) del mundo es: CR7
+El mejor jugador (futbol) del mundo es: Ozil
